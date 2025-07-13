@@ -1,0 +1,2 @@
+1/ Django v4.2.13
+2/ Mysql 15.1 Distrib 10.4.3-MariaDB
